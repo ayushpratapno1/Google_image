@@ -63,9 +63,3 @@ The script uses web scraping techniques or a Google Image API (based on implemen
 ## Contribution
 
 Contributions, bug reports, and feature requests are welcome! Please fork the repo and submit pull requests.
-
-## License
-
-Specify your license here, for example, MIT License.
-
-Feel free to adjust specific script names, dependencies, and usage instructions based on your exact implementation. Let me know if you need help customizing it further!
